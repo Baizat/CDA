@@ -1,0 +1,61 @@
+{
+  "_from": "survey-jquery",
+  "_id": "survey-jquery@1.0.61",
+  "_inBundle": false,
+  "_integrity": "sha512-T47tnU213j5JK9zH2Wgk4vr7DJyDDiZE/eZYAsE05YlzmHnDXlH0yF+iGaLHfwjSdHxIz8s+i313tzuESbjIDA==",
+  "_location": "/survey-jquery",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "survey-jquery",
+    "name": "survey-jquery",
+    "escapedName": "survey-jquery",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/survey-jquery/-/survey-jquery-1.0.61.tgz",
+  "_shasum": "d4d8ed206c5a246204c3107fab1fd6681d110f7f",
+  "_spec": "survey-jquery",
+  "_where": "C:\\Applications\\CDA\\App",
+  "bugs": {
+    "url": "https://github.com/surveyjs/surveyjs/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/knockout": "3.4.46",
+    "jquery": ">=1.12.4"
+  },
+  "deprecated": false,
+  "description": "survey.js is a JavaScript Survey Library. It is a modern way to add a survey to your website. It uses JSON for survey metadata and results.",
+  "files": [
+    "survey.css",
+    "survey.min.css",
+    "survey.jquery.d.ts",
+    "survey.jquery.js",
+    "survey.jquery.min.js"
+  ],
+  "homepage": "https://surveyjs.io/",
+  "keywords": [
+    "Survey",
+    "JavaScript",
+    "Bootstrap",
+    "Library",
+    "jquery",
+    "jquery-plugin"
+  ],
+  "license": "MIT",
+  "main": "survey.jquery.js",
+  "name": "survey-jquery",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surveyjs/surveyjs.git"
+  },
+  "typings": "survey.jquery.d.ts",
+  "version": "1.0.61"
+}

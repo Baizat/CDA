@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Financial Health Check Calculator</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link href="https://surveyjs.azureedge.net/1.0.61/survey.css" type="text/css" rel="stylesheet" /> 
+     -->
+     <link href="./src/lib//survey-jquery/survey.css" type="text/css" rel="stylesheet" />
+     <link href="./src/build/css/main.css" type="text/css" rel="stylesheet"/>
+     
+     <style>
+        /* .content{
+        
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.2s ease-out; 
+        } 
+        .collapsible>.sec-head>h3{padding:0 .7em;margin:0px;}
+        .sec-summary{padding:.7em;}
+        .sec-summary>h3{margin:0px;padding:0px;} 
+
+        .ac-pnl-rtl>.result>.collapsible>.sec-summary {
+        margin-left: 55px!important;
+        }
+        .ac-pnl-ltr>.result>.collapsible>.sec-summary {
+        margin-right: 55px!important;
+        }
+        .collapsible>.content{padding: 0 1em!important;}
+        .page-break {
+            page-break-after: always;
+            page-break-inside: avoid;
+            clear:both;
+        }
+        .page-break-before {
+            page-break-before: always;
+            page-break-inside: avoid;
+            clear:both;
+        } */
+     </style>
+     
+     <!-- <link href="./src/printpdf.css" type="text/css" rel="stylesheet"/>
+      -->
+    <!-- <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script> -->
+</head>
+<body> 
+<div>
+        <select id="selLocales" style="width:100%" onchange="changeLocale();">
+       <option value="en">English</option> <option value="ar" selected>Arabic</option></select>
+</div>
+
+    <div class="main-wrapper">
+        <div id="surveyContainer"></div>
+
+        
+        <div id="surveyResult">
+        </div>
+
+           <div id="printReport" style="display:none">
+                <div id="divNextStep"></div>
+                
+            <form> 
+            
+            <!-- <h5>Your Email</h5>
+            <input type="email" placeholder="youremail@domain.com"/> -->
+            <input id="downloadPDFbtn" type="button"  onclick="generate(0)" value="Download PDF Report"></input> 
+            <input id="printPDFbtn" type="button"  onclick="generate(1)" value="Print PDF Report"></input>  
+            </form>
+            </div>
+    </div>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://surveyjs.azureedge.net/1.0.61/survey.jquery.min.js"></script> -->
+
+    <script src="./src/lib//jquery/dist/jquery.min.js"></script>
+    <script src="./src/lib/survey-jquery/survey.jquery.min.js"></script>
+    <script src="./src/lib/jsonq/jsonQ.min.js"></script>
+    
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script> -->
+    <!-- <script src="./src/lib/pdf/html2canvas.js"></script>
+    <script src="./src/lib/pdf/jspdf.debug.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
+    <!-- <script src="https://unpkg.com/jspdf@latest/dist/jspdf.min.js"></script>              -->
+    <script src="https://unpkg.com/jspdf@latest/dist/jspdf.umd.min.js"></script> 
+    <script src="https://rawgit.com/eKoopmans/html2pdf/master/dist/html2pdf.bundle.min.js"></script>
+
+    <!-- <script src="./src/client/js/main.js"></script>
+    <script src="./src/client/js/exportpdf.js"></script> -->  
+    <script src="./src/build/js/app-min.js"></script>
+</body>
+</html>

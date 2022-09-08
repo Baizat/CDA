@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang='en-us'>
+<head>
+    <link href="./src/lib//survey-jquery/survey.css" type="text/css" rel="stylesheet" />
+    <link href="./src/build/css/main.css" type="text/css" rel="stylesheet"/>
+    
+  <style>
+    
+#printReport{
+  border-top: #dddddd solid 1px;
+}
+
+#printReport input[type="button"]
+{ 
+   font-size: 0.85em;
+  font-weight: bold; 
+  line-height:3em;
+  border: none;
+  min-width: 100px;
+  cursor: pointer;
+  padding: 0 2em;
+  border-radius: 2px;  
+  color: white;
+  background-color: #1ab394;
+}
+#printReport input[type="email"]{
+  height: 1.5em;
+  padding: .5em;
+  width: 270px;
+}
+</style>
+    <meta charset="utf-8" />
+    <title>Page Title</title>
+
+</head>
+<body>
+<div style="width:793 px;"><div id="rpthead" class="ltr" style="font-family: 'Dubai-Regular', Helvetica, sans-serif;"><h2 class="pg-title">Financial Health Check Calculator</h2><h3>Your Report</h3><p>Below are your financial health check results, with a grade and some tips given for each area of your personal finance. </p><p><em style="color:brown">Just like a real health check, it is not possible to assess exactly how well you are doing from some basic information.  For a comprehensive overview of your financial health, seek a qualified financial advisor.</em></p></div><div class="result"><div class="" style="font-family:&quot;Dubai-Regular&quot;, Helvetica, sans-serif;margin-top:10px;PAGE-BREAK-AFTER: always;text-align:left" dir="ltr"><h3 class="sec-head" style="background-color:#55657D;color: #ffffff;padding:0 .7em; margin:0">Budgeting</h3><div class="sec-summary"><h3>Grade : A - Strong</h3><p style="text-align:left">You are prepared for expenses and setting a regular household budget</p></div><div class="" style="background-color: rgb(200, 200, 230);padding:10px;"><ul style="list-style: none;margin:0;padding:10x 20px 10px 30px;margin:10x 30px 10px 20px;"><li style="padding:3px 7px;list-style-type: none;"><span style="margin-left:-30px;padding-right:20px;">●</span>You regularly create a monthly budget: Keep it up! This is at the core of ensuring your financial success. Check our guide on setting a monthly budget to make sure you are doing everything right.</li><li style="padding:3px 7px;list-style-type: none;"><span style="margin-left:-30px;padding-right:20px;">●</span>You regularly make a shopping list. Congratulations, you are taking an important step in controlling your expenses and being a smart shopper. Be sure to regularly involve your family members in contributing towards shopping lists.</li><li style="padding:3px 7px;list-style-type: none;"><span style="margin-left:-30px;padding-right:20px;">●</span>You always involve your family in the budgeting process. This is an excellent way to strengthen family communication by working towards shared goals and providing children with financial responsibility from a young age.</li><li style="padding:3px 7px;list-style-type: none;"><span style="margin-left:-30px;padding-right:20px;">●</span>You always give your children an allowance. Ensure they use their allowance for all necessary spending and smaller goals. This is an excellent way to teach children the value of money, independence and decision making skills. If your child is below 7 give them an allowance daily, afterwards give them a weekly allowance. Once they reach 13 they should receive monthly.</li></ul></div></div><div class="" style="font-family:&quot;Dubai-Regular&quot;, Helvetica, sans-serif;margin-top:10px;PAGE-BREAK-AFTER: always;text-align:left" dir="ltr"><h3 class="sec-head" style="background-color:#55657D;color: #ffffff;padding:0 .7em; margin:0">Debt and Credit Cards</h3><div class="sec-summary"><h3>Grade : D - Poor</h3><p style="text-align:left">Your debt and credit card situation is in need of urgent improvement</p></div><div class="" style="background-color: rgb(200, 200, 230);padding:10px;"><ul style="list-style: none;margin:0;padding:10x 20px 10px 30px;margin:10x 30px 10px 20px;"></ul></div></div><div class="" style="font-family:&quot;Dubai-Regular&quot;, Helvetica, sans-serif;margin-top:10px;PAGE-BREAK-AFTER: always;text-align:left" dir="ltr"><h3 class="sec-head" style="background-color:#55657D;color: #ffffff;padding:0 .7em; margin:0">Savings and Investment</h3><div class="sec-summary"><h3>Grade : D - Poor</h3><p style="text-align:left">Major work is required in securing regular savings and investing towards your goals</p></div><div class="" style="background-color: rgb(200, 200, 230);padding:10px;"><ul style="list-style: none;margin:0;padding:10x 20px 10px 30px;margin:10x 30px 10px 20px;"></ul></div></div><div class="" style="font-family:&quot;Dubai-Regular&quot;, Helvetica, sans-serif;margin-top:10px;PAGE-BREAK-AFTER: always;text-align:left" dir="ltr"><h3 class="sec-head" style="background-color:#55657D;color: #ffffff;padding:0 .7em; margin:0">Insurance</h3><div class="sec-summary"><h3>Grade : D - Poor</h3><p style="text-align:left">You have no insurance. Your income and possessions may not be protected from loss or the unexpected</p></div><div class="" style="background-color: rgb(200, 200, 230);padding:10px;"><ul style="list-style: none;margin:0;padding:10x 20px 10px 30px;margin:10x 30px 10px 20px;"></ul></div></div><div class="" style="font-family:&quot;Dubai-Regular&quot;, Helvetica, sans-serif;margin-top:10px;PAGE-BREAK-AFTER: always;text-align:left" dir="ltr"><h3 class="sec-head" style="background-color:#55657D;color: #ffffff;padding:0 .7em; margin:0">Retirement</h3><div class="sec-summary"><h3>Grade : D - Poor</h3><p style="text-align:left">You have not made any retirement plans and you are not contributing towards your retirement, you may risk having no or low income at retirement.</p></div><div class="" style="background-color: rgb(200, 200, 230);padding:10px;"><ul style="list-style: none;margin:0;padding:10x 20px 10px 30px;margin:10x 30px 10px 20px;"></ul></div></div><div class="" style="font-family:&quot;Dubai-Regular&quot;, Helvetica, sans-serif;margin-top:10px;PAGE-BREAK-AFTER: always;text-align:left" dir="ltr"><h3 class="sec-head" style="background-color:#55657D;color: #ffffff;padding:0 .7em; margin:0">Financial Knowledge</h3><div class="sec-summary"><h3>Grade : D - Poor</h3><p style="text-align:left">You have poor or no understanding of key personal finance areas</p></div><div class="" style="background-color: rgb(200, 200, 230);padding:10px;"><ul style="list-style: none;margin:0;padding:10x 20px 10px 30px;margin:10x 30px 10px 20px;"></ul></div></div></div></div>
+
+<script src="./src/lib//jquery/dist/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
+<script src="https://unpkg.com/jspdf@latest/dist/jspdf.min.js"></script>             
+<script src="https://rawgit.com/eKoopmans/html2pdf/master/dist/html2pdf.bundle.min.js"></script>
+
+ 
+
+
+
+</body>
+</html>

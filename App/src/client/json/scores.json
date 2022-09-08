@@ -1,0 +1,242 @@
+{ 
+    "sections": [   { 
+                    "key" : "budgeting",
+                    "name" : {"default": "Budgeting","ar":"الميزانية"},
+
+                    "grades":[
+                    
+                    {
+                        "value" : {"default":"Grade : \u0041","ar":"\u0041 : درجة"},
+                        "minscrore":10,
+                        "maxscore":10,
+                        "brief": {"default":"Strong","ar":"قوي"},
+                        "desc": {"default": "You are prepared for expenses and setting a regular household budget","ar": "أنت على قادر على النفقات ووضع ميزانية الأسرة العادية"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" : {"default":"Grade : \u0042","ar":"\u0042 : درجة"},
+                        "minscrore":7,
+                        "maxscore":9,
+                        "brief": {"default":"Fair","ar":"متوسط"},
+                        "desc":{"default":"You are budgeting and keeping some control of your expenses, with a level of household involvement","ar":"أنت تضع الميزانية وتتحكم في بعض نفقاتك، مع بعض المشاركة من أفراد الأسرة"} ,
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" : {"default":"Grade : \u0043","ar":"\u0043 : درجة"},
+                        "minscrore":4,
+                        "maxscore":6,
+                        "brief":{"default": "Weak","ar":"ضعیف"},
+                        "desc":{"default": "You are putting basic effort towards budgeting and preparing for expenses","ar": "أنت تبذل بعض الجهد نحو وضع الميزانية والإعداد للنفقات"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" :  {"default":"Grade : \u0044","ar":"\u0044 : درجة"},
+                        "minscrore":0,
+                        "maxscore":3,
+                        "brief": {"default":"Poor","ar":"ضعيف جداً"},
+                        "desc": {"default":"You are not keeping track of your budget effectively or preparing for expenses","ar":"أنت لا تخصص ميزانية بشكل فعال أو مستعد للنفقات"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    }
+                ]
+        },
+        {
+            "key" : "debtandcc",
+            "name" : {"default":"Debt and Credit Cards","ar":"الديون وبطاقات الائتمان"},
+
+            "grades" : [
+                    {
+                        "value" :  {"default":"Grade : \u0041","ar":"\u0041 : درجة"},
+                        "minscrore":16,
+                        "maxscore":16,
+                        "brief": {"default":"Strong","ar":"قوي"},
+                        "desc": {"default":"You are in control of your debts and credit cards","ar":"أنت تتحكم في ديونك وبطاقاتك الائتمانية"},
+                         "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" : {"default":"Grade : \u0042","ar":"\u0042 : درجة"},
+                        "minscrore":12,
+                        "maxscore":15,
+                       "brief": {"default":"Fair","ar":"متوسط"},
+                        "desc": {"default":"Your debts and credit cards are well managed with occasional challenges","ar":"تدار ديونك وبطاقات الائتمان الخاصة بك بشكل جيد مع بعض التحديات"},
+                         "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" :  {"default":"Grade : \u0043","ar":"\u0043 : درجة"},
+                        "minscrore":9,
+                        "maxscore":11,
+                        "brief":{"default": "Weak","ar":"ضعیف"},
+                        "desc": {"default":"Outstanding debts and credit cards are affecting your chances of financial success","ar":"الديون المستحقة وبطاقات الائتمان تؤثر على فرصك في النجاح المالي"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" :  {"default":"Grade : \u0044","ar":"\u0044 : درجة"},
+                        "minscrore":0,
+                        "maxscore":8,
+                        "brief": {"default":"Poor","ar":"ضعيف جداً"},
+                        "desc": {"default": "Your debt and credit card situation is in need of urgent improvement","ar": "ديونك ووضع بطاقة الائتمان في حاجة إلى معالجة تحسن عاجل"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    }
+                                    
+                    ]
+        },
+        {
+            "key":"savingsandinv",
+            "name"  :{"default": "Savings and Investment","ar": "الادخار والاستثما"},
+            "grades" : [
+                    {
+                        "value" :  {"default":"Grade : \u0041","ar":"\u0041 : درجة"},
+                        "minscrore":18,
+                        "maxscore":35,
+                        "brief": {"default":"Strong","ar":"قوي"},
+                        "desc": {"default":"You are saving regularly with a financial plan and diversified investments","ar":"أنت تقوم بالتوفير بشكل منتظم مع خطة مالية واستثمارات متنوعة"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+
+                    },
+                    {
+                        "value" : {"default":"Grade : \u0042","ar":"\u0042 : درجة"},
+                        "minscrore":15,
+                        "maxscore":17,
+                       "brief": {"default":"Fair","ar":"متوسط"},
+                        "desc":{"default": "Your savings, financial plans and investments are under control with some areas for improvement.","ar": "إن مدخراتك وخططك المالية واستثماراتك تحت السيطرة مع بعض المجالات للتحسن"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+
+                    },
+                    {
+                        "value" :  {"default":"Grade : \u0043","ar":"\u0043 : درجة"},
+                        "minscrore":10,
+                        "maxscore":14,
+                        "brief":{"default": "Weak","ar":"ضعیف"},
+                        "desc": {"default":"You are participating in saving, planning or investing with some key improvements required","ar":"أنت تشارك في الإدخار أوالتخطيط أوالاستثمار مع بعض التحسينات الرئيسية المطلوبة"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+
+                    },
+                    {
+                        "value" :  {"default":"Grade : \u0044","ar":"\u0044 : درجة"},
+                        "minscrore":0,
+                        "maxscore":9,
+                        "brief": {"default":"Poor","ar":"ضعيف جداً"},
+                        "desc": {"default":"Major work is required in securing regular savings and investing towards your goals","ar":"مطلوب عمل كبير في تأمين الادخار العادي المنتظم والاستثمار نحو أهدافك"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    }
+                    ]
+        },
+        {
+            "key":"insurance",
+            "name" :{"default": "Insurance","ar": "تأمین"},
+            "grades" : [
+                    {
+                         "value" :  {"default":"Grade : \u0041","ar":"\u0041 : درجة"},
+                        "minscrore":5,
+                        "maxscore":5,
+                        "brief": {"default":"Strong","ar":"قوي"},
+                        "desc":{"default": "Your income and possessions are well protected by insurance","ar": "دخلك وممتلكاتك محمية بشكل جيد بواسطة التأمين"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" : {"default":"Grade : \u0042","ar":"\u0042 : درجة"},
+                        "minscrore":4,
+                        "maxscore":4,
+                       "brief": {"default":"Fair","ar":"متوسط"},
+                        "desc": {"default":"Your income and posessions are well protected. Consider improving your insurance packages","ar":"دخلك و ووضعك محمي بشكل جيد. النظر في تحسين حزم التأمين الخاصة بك"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" :  {"default":"Grade : \u0043","ar":"\u0043 : درجة"},
+                        "minscrore":2,
+                        "maxscore":3,
+                        "brief":{"default": "Weak","ar":"ضعیف"},
+                        "desc": {"default":"You have some insurance, however there are areas in your life that may need protection","ar":"لديك بعض التأمين، ولكن هناك مجالات في حياتك قد تحتاج إلى الحماية"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" :  {"default":"Grade : \u0044","ar":"\u0044 : درجة"},
+                        "minscrore":0,
+                        "maxscore":1,
+                        "brief": {"default":"Poor","ar":"ضعيف جداً"},
+                        "desc": {"default":"You have no insurance. Your income and possessions may not be protected from loss or the unexpected","ar":"ليس لديك تأمين. دخلك وممتلكاتك معرضة للخسارة غير المتوقعة وتحتاج الى حماية فورية"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    }
+                                    
+                    ]
+        },
+        {
+            "key":"retirement",
+            "name" : {"default":"Retirement","ar":"تقاعد"},
+            "grades" : [
+                    {
+                         "value" :  {"default":"Grade : \u0041","ar":"\u0041 : درجة"},
+                        "minscrore":8,
+                        "maxscore":18,
+                        "brief": {"default":"Strong","ar":"قوي"},
+                        "desc": {"default":"You are already retired or well prepared for retirement, with plans and pension contributions in place","ar":"بالفعل تقاعدت أو انت على استعداد جيد للتقاعد, مع خطط ومساهمات التقاعد في المكان المناسب"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" : {"default":"Grade : \u0042","ar":"\u0042 : درجة"},
+                        "minscrore":5,
+                        "maxscore":7,
+                       "brief": {"default":"Fair","ar":"متوسط"},
+                        "desc": {"default":"You are working towards retirement with a need to finalize your plans and contributions","ar":"أنت تعمل من أجل التقاعد مع الحاجة لوضع اللمسات الأخيرة على الخطط والمساهمات الخاصة بك"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" :  {"default":"Grade : \u0043","ar":"\u0043 : درجة"},
+                        "minscrore":1,
+                        "maxscore":4,
+                        "brief":{"default": "Weak","ar":"ضعیف"},
+                        "desc": {"default":"You need to finalize retirement plans and consider starting to contribute personally towards your pension","ar":"تحتاج لوضع اللمسات الأخيرة على خطط التقاعد والنظر في البدء في المساهمة شخصيا نحو المعاش الخاص بك"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" :  {"default":"Grade : \u0044","ar":"\u0044 : درجة"},
+                        "minscrore":0,
+                        "maxscore":0,
+                        "brief": {"default":"Poor","ar":"ضعيف جداً"},
+                        "desc": {"default":"You have not made any retirement plans and you are not contributing towards your retirement, you may risk having no or low income at retirement.","ar":"أنت لم تشارك أو تضع خطط للتقاعد وقد تضع نفسك في مخاطر مالية عند التقاعد"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    }
+                                    
+                    ]
+        },
+        {
+            "key":"finknowledge",
+            "name" : {"default":"Financial Knowledge","ar": "اختبار المعرفة المالیة"},
+
+            "grades" : [
+                    {
+                         "value" :  {"default":"Grade : \u0041","ar":"\u0041 : درجة"},
+                        "minscrore":4,
+                        "maxscore":4,
+                        "brief": {"default":"Strong","ar":"قوي"},
+                        "desc": {"default":"You have a good understanding of key personal finance areas","ar":"لديك فهم جيد لمكونات الإدارة المالية الشخصية الرئيسية"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" : {"default":"Grade : \u0042","ar":"\u0042 : درجة"},
+                        "minscrore":3,
+                        "maxscore":3,
+                       "brief": {"default":"Fair","ar":"متوسط"},
+                        "desc": {"default":"You have an average understanding of key personal finance areas","ar":"لديك فهم متوسط ​​لمكونات الإدارة المالية الشخصية الرئيسية"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" :  {"default":"Grade : \u0043","ar":"\u0043 : درجة"},
+                        "minscrore":2,
+                        "maxscore":2,
+                        "brief":{"default": "Weak","ar":"ضعیف"},
+                        "desc": {"default":"You have a weak understanding of key personal finance areas","ar":"لديك فهم ضعيف لمكونات الإدارة المالية الشخصية الرئيسية"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    },
+                    {
+                        "value" :  {"default":"Grade : \u0044","ar":"\u0044 : درجة"},
+                        "minscrore":0,
+                        "maxscore":1,
+                        "brief": {"default":"Poor","ar":"ضعيف جداً"},
+                        "desc": {"default":"You have poor or no understanding of key personal finance areas","ar":"لديك ضعف أو عدم فهم لمكونات الإدارة المالية الشخصية الرئيسية"},
+                        "tips":{"default":"<p><strong>Recommended CDA Financial Awareness Resources </strong></p><ul><li>Articles: Managing Debt, Introduction to Credit Cards</li><li>Guides: Steps to Borrowing, Managing Debt, Using Credit Cards Wisely</li><li>Video: Introduction to Credit Cards</li></ul>","ar":"<p><strong>CDA موارد التوعیة المالیة الموصى بھا من </strong></p><ul><li>مقالات: لإدارة الدیون, مقدمة لبطاقات الائتمان</li><li> خطوط إرشاد: الاقتراض, لإدارة الدیون, استخدام بطاقات الائتمان بحكمة</li><li>أشرطة فیدیو: مقدمة لبطاقات الائتمان</li></ul>"}
+                    }
+                                    
+                    ]
+        } 
+    ]
+}
