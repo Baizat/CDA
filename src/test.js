@@ -34,7 +34,7 @@
             value: "item3",
             text: {
              default: "Never",
-             ar: "لا، نهائيا"
+             ar: "أبدا"
             }
            }
           ]
@@ -66,7 +66,7 @@
             value: "item3",
             text: {
              default: "Never",
-             ar: "لا، نهائيا"
+             ar: "أبدا"
             }
            }
           ]
@@ -98,7 +98,7 @@
             value: "item3",
             text: {
              default: "No, but I could",
-             ar: "لا، لكن يمكنني أن أقوم بذلك"
+             ar: "لا ، لكن بإمكاني"
             }
            },
            {
@@ -115,7 +115,7 @@
           name: "question9",
           title: {
            default: "Do you give your children an allowance?",
-           ar: "هل تعطي أطفالك مصروف؟"
+           ar: "ھل تعطي اطفالك مصروف ؟"
           },
           isRequired: true,
           choices: [
@@ -123,7 +123,7 @@
             value: "item1",
             text: {
              default: "Yes, Always",
-             ar: "نعم، بانتظام"
+             ar: "نعم دائما"
             }
            },
            {
@@ -136,8 +136,8 @@
            {
             value: "item3",
             text: {
-             default: "No, but I could",
-             ar: "لا، لكن يمكنني ذلك"
+             default: "No",
+             ar: "لا"
             }
            },
            {
@@ -178,7 +178,7 @@
           value: "item1",
           text: {
            default: "Yes, I have set timelines and I am saving towards them",
-           ar: "نعم، لقد وضعت خطة زمنية وأدخر من أجلها"
+           ar: "نعم ، لقد وضعت الخطة الزمنیة وأدخر من أجلھا"
           }
          },
          {
@@ -353,7 +353,7 @@
           value: "item2",
           text: {
            default: "Yes, I add what I can every month",
-           ar: "نعم، أضيف ما أستطيع كل شهر"
+           ar: "نعم ، أضف ما أستطیع كل شھر"
           }
          },
          {
@@ -366,7 +366,7 @@
          {
           value: "item4",
           text: {
-           default: "I have no dependent children",
+           default: "I have no dependant children",
            ar: "لیس لدي أطفال معالین"
           }
          }
@@ -392,7 +392,7 @@
           value: "item2",
           text: {
            default: "No, but I am working towards one",
-           ar: "لا، لكني أعمل على إنشاء واحد"
+           ar: "لا ، لكني أعمل تجاه واحد"
           }
          },
          {
@@ -424,7 +424,7 @@
           value: "item2",
           text: {
            default: "Annuities (including Pensions)",
-           ar: "المعاشات (بما في ذلك الراتب التقاعدي)"
+           ar: "المعاشات (بما في ذلك المعاشات)"
           }
          },
          {
@@ -472,7 +472,7 @@
          {
           value: "item9",
           text: {
-           default: "Investing in small business",
+           default: "Investing in a Small Business",
            ar: "الاستثمار في الأعمال التجاریة الصغیرة"
           }
          },
